@@ -54,8 +54,8 @@ I'm open to collaborations and opportunities in the field of Web and Backend Dev
 
 ## 🚀 Cool Projects
 
-- [**🧠 AI: Jobs Collecting and Filtering**](https://github.com/elchananvol/AIJobScraper): A state-of-the-art tool that extracts job postings from LinkedIn and Glassdoor, leverages AI to evaluate job matches based on custom criteria, and organizes the results to help users make well-informed decisions.
-- [**🌐 UI: GPT Researcher UI**](https://github.com/elchananvol/researcher_streamlit):Built a user-friendly Streamlit-based interface to democratize access to the GPT Researcher Tool, an AI-powered academic writing assistant. Streamlines the research and writing process with AI insights. [Check out the live version.](https://gpt-researcher.streamlit.app/)
+- 🧠 [**AI: Jobs Collecting and Filtering**](https://github.com/elchananvol/AIJobScraper): A state-of-the-art tool that extracts job postings from LinkedIn and Glassdoor, leverages AI to evaluate job matches based on custom criteria, and organizes the results to help users make well-informed decisions.
+- 🌐 [**UI: GPT Researcher UI**](https://github.com/elchananvol/researcher_streamlit): Built a user-friendly Streamlit-based interface to democratize access to the GPT Researcher Tool, an AI-powered academic writing assistant. Streamlines the research and writing process with AI insights. [Check out the live version.](https://gpt-researcher.streamlit.app/)
 - **💼 Investment: IPO First Day Strategy**: Investigated investment strategies for IPOs by analyzing first-day trading performance. Identified trends, evaluated potential returns, and uncovered insights to guide smarter investment decisions. [Read the article on Medium](https://medium.com/@elchanan.vol/unlocking-the-potential-of-ipo-investments-is-it-a-safe-bet-for-everyone-d53d21153f07)
 
 <br>
