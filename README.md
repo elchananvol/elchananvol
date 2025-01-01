@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Elchanan Vol</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, I'm Elchanan Vol</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 I'm a **Software Developer** with a passion for **innovation**, **high-scale systems**, and **creating solutions that deliver real impact**. I hold a BSc degree in Computer Science, and and have experience in building robust, scalable microservices, and ML pipelines. I thrive on designing systems that meet the demands of modern, high-traffic applications.
 I'm open to collaborations and opportunities in the field of Web and Backend Development. Feel free to reach out to me!
