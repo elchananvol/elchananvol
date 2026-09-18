@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola, I'm Elchanan Vol</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-I'm a **Software Developer** with a passion for **innovation**, **high-scale systems**, and **creating solutions that deliver real impact**. I hold a BSc in Computer Science and have experience in building robust, scalable microservices and ML pipelines. I am driven by the challenge of designing scalable systems that can handle the demands of modern, high-traffic applications with efficiency and reliability and open to collaborations and opportunities in the fields of Web or Backend Development. Feel free to reach out to me! 
+I'm a **Software Developer** with a passion for **innovation**, **high-scale systems**, and **creating solutions that deliver real impact**. I hold a BSc in Computer Science from HUJI and have experience in building robust, scalable microservices and ML pipelines. I am driven by the challenge of designing scalable systems that can handle the demands of modern, high-traffic applications with efficiency and reliability and open to collaborations and opportunities in the fields of Web or Backend Development. Feel free to reach out to me! 
 
 <!-- I am a **software developer** with a passion for **innovation** and **creating solutions that deliver real impact**, specializing in distributed systems development and Cloud solutions. I hold a Bachelor’s degree in Computer Science and have experience developing Microservices-based systems and building data processes for Machine Learning applications.
 I'm open to collaborations and opportunities in the fields of Web or Backend Development. Feel free to reach out to me! -->
